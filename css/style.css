@@ -23,6 +23,8 @@
 
 body {
   background-image: url("bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   flex-flow: column;
   height: 100vh;
