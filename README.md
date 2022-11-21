@@ -14,6 +14,6 @@ This repo is a work-in-progress and pairs with my TPortals NFT Project.
   - Heading and paragraph text
 - Update `style.css` file
   - Fonts
-  - Colors
+  - Colours
 
 
